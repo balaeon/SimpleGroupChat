@@ -30,6 +30,5 @@ object Constants {
 
     const val MESSAGE_FILE_URI="message_file_uri"
 
-    const val FCM_SERVER_KEY="AAAASCyD3d4:APA91bFdvzt1XvLeTahwF_oWR2CG5S8qIlatF4ifpeOqrY8Fa8TkrI_4wkugOBMx_ct_lJ_oJWKim4a7_-fPPEEhdZgCCAXfVoLYEc-tz9Isirysquh7RN3THuq84Ik-lhmATDNhbjHg"
-    //const val FCM_SERVER_KEY="AAAApjZeY_U:APA91bG5Ifs2wIABgd1edHXKvXaRm1yG7bUj3A0VY8TBvF00i-l7yQw82FF10dkhUj56uAC_fZHVqN5_h4IIGQ21Jpiyj_uszjG8Lez1aOSX0YF-Nhp1qDt_CcAIBv64uHubsLkmudVF"
+    const val FCM_SERVER_KEY="ssgdggtd"
 }
